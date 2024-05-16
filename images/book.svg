@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="73de75b1-b12c-47c8-9a6a-17526ff83d7b"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="9f510c8c-9c23-41c3-bbf1-46070e00f8bc"  >
+</g>
+<g transform="matrix(54 0 0 54 540 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,69,126); fill-rule: nonzero; opacity: 1;"  transform=" translate(-10, -9.69)" d="M 9 4.804 C 7.90971353117577 4.273159454676934 6.712647080719443 3.998176190057823 5.499999999999997 4 C 4.245 4 3.057 4.29 2 4.804 L 2 14.804 C 3.0902982639563517 14.273192858503066 4.287356884019833 13.998211392637055 5.499999999999998 14 C 7.1690000000000005 14 8.718 14.51 10 15.385 C 11.326075594733505 14.480237332994133 12.894675889482631 13.997457020054679 14.5 14 C 15.754999999999999 14 16.943 14.29 18 14.804 L 18 4.804 C 16.90971353117577 4.273159454676934 15.712647080719442 3.998176190057823 14.499999999999996 4 C 13.245000000000001 4 12.057 4.29 11 4.804 L 11 12 C 11 12.552284749830793 10.552284749830793 13 10 13 C 9.447715250169207 13 9 12.552284749830793 9 12 L 9 4.804 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+</svg>
